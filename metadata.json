@@ -1,0 +1,6 @@
+{
+  "name": "ShowPass - Movies & Events Ticket Booking",
+  "description": "Book tickets for 100+ latest Indian & Hollywood blockbuster movies, cinema halls, showtimes, and events across India with interactive seat selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
